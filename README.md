@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michael-Clark1330
-- 👀 I’m interested in mechanical engineering and data science.
-- 🌱 I’m currently learning how to code in C++.
+- 👀 I’m interested in computer science.
+- 🌱 I’m currently learning design patterns in Java and computer orginization.
 - 💞️ I’m looking to collaborate on a coding project that will produce insights and patterns from data sets.
 - 📫 How to reach me: phone 610-217-4075
 - 😄 Pronouns: he/him/his
